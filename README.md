@@ -1,5 +1,6 @@
 ## Hi there 👋
-### 🌱 I’m currently learning deep learning ✨
+### 🔭 I’m currently creating bioinformatics web applications ✨
+### 🌱 I’m currently learning how to process spatial single-cell data 🔥
 ### 🌐 Check my Github Page: https://eliaco.github.io 
 
 📫 How to reach me: elia.covino.a@gmail.com or linkedin
